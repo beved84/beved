@@ -1,2 +1,1 @@
-discord==1.9.6_1
-youtube==1.9.6_1
+discord==0.16.12
